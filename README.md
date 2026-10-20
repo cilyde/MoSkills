@@ -85,7 +85,7 @@ AI coding agents often fall victim to predictable cognitive failure modes:
 
 ---
 
-### 5. [`un-complicator`](./un-complicator/SKILL.md)
+### 5. [`un-complicator`](./un-complicator/SKILL.md) - Inspired by unlazy
 > *Anti-over-engineering protocol: "Stop at the first rung that holds."*
 
 - **The 6-Rung Simplification Ladder**:
